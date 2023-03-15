@@ -1,0 +1,45 @@
+:root {
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-light-gray: hsl(212, 45%, 89%);
+  --clr-grayish-blue: hsl(220, 15%, 55%);
+  --clr-dark-blue: hsl(218, 44%, 22%);
+}
+
+p {
+  font-size: 15px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: var(--clr-light-gray);
+  font-family: "Work Sans", sans-serif;
+}
+
+.card {
+  background-color: var(--clr-white);
+  border-radius: 25px;
+  width: 17vw;
+  text-align: center;
+}
+
+.content {
+  padding: 1em;
+  margin: 0;
+}
+
+img {
+  border-radius: 20px;
+  max-width: 100%;
+}
+
+.description > p {
+  margin-bottom: 2em;
+  color: var(--clr-grayish-blue);
+}
+
+.title {
+  font-size: 1.3rem;
+}
