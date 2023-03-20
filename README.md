@@ -51,5 +51,5 @@ I need to continue practicing my CSS especially when it comes down to using Flex
 
 ## Author
 
-- Website - [Alaa](https://www.your-site.com)
+- Website - [Alaa](https://alaaa1.github.io/)
 - Frontend Mentor - [@Alaaa1](https://www.frontendmentor.io/profile/Alaaa1)
