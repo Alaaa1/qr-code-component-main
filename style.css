@@ -13,21 +13,20 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  min-height: 60em;
   background-color: var(--clr-light-gray);
   font-family: "Work Sans", sans-serif;
 }
 
-.card {
+main {
   background-color: var(--clr-white);
   border-radius: 25px;
-  width: 17vw;
+  width: 20em;
   text-align: center;
 }
 
 .content {
   padding: 1em;
-  margin: 0;
 }
 
 img {
@@ -41,5 +40,5 @@ img {
 }
 
 .title {
-  font-size: 1.3rem;
+  font-size: 1.3em;
 }
